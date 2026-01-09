@@ -1,0 +1,5 @@
+{
+  "name": "GI-Diagnose AI",
+  "description": "An advanced web interface for Gastrointestinal (GI) disease diagnosis. Users can upload endoscopic images, and the system leverages a powerful AI model to provide a diagnosis, risk assessment, and explainable insights in the form of fuzzy rules, simulating a hybrid Deep Learning and Adaptive Fuzzy Inference System.",
+  "requestFramePermissions": []
+}
